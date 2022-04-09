@@ -1,0 +1,10 @@
+img{
+    width: 50%;
+    margin-left: 25%;
+}
+h3,h6,p,button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
